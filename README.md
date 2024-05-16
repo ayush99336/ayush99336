@@ -27,7 +27,7 @@ I Code 💻. I like to learn new stuff & am always up for challenges! Being an e
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=postgres"/>
+<img src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgresql"/>
 </p>
 
 ---
