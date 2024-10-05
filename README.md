@@ -47,6 +47,7 @@ I am Ayush Kaushik, currently pursuing my bachelor's from the Indian Institute o
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Social Engineering](https://img.shields.io/badge/Social_engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
+<!-- ![Social Engineering](https://img.shields.io/badge/Social_engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=black)-->
 
 ### IDEs and Tools 🛠:
 
