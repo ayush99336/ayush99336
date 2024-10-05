@@ -5,7 +5,9 @@
 </p>
 
 ## Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=ayush99336&show_icons=true&locale=en&theme=tokyonight" alt="ayush99336" /></p>
 I am Ayush Kaushik, currently pursuing my bachelor's from the Indian Institute of Technology Dhanbad. I code 💻 and love to learn new stuff. I’m always up for challenges, and I enjoy discussing ideas and projects!
+
 
 ---
 
@@ -63,5 +65,4 @@ I am Ayush Kaushik, currently pursuing my bachelor's from the Indian Institute o
 
 ---
 
-## Greetings Everyone 💌
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=ayush99336&show_icons=true&locale=en&theme=tokyonight" alt="ayush99336" /></p>
+
