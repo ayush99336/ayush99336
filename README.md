@@ -42,12 +42,13 @@ I am Ayush Kaushik, currently pursuing my bachelor's from the Indian Institute o
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Others:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<!--
 ![Social Engineering](https://img.shields.io/badge/Social_engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
-<!-- ![Social Engineering](https://img.shields.io/badge/Social_engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=black)-->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+-->
 
 ### IDEs and Tools 🛠:
 
