@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="https://www.linkedin.com/in/ayushkaushik-ism/"><img height="30" src="https://th.bing.com/th/id/R.b42740265ff91a20ae761b03193da2ad?rik=5JNf3el%2fzI5FwA&riu=http%3a%2f%2fwww.rmh.com.au%2fwp-content%2fuploads%2f2018%2f04%2fLogo-IN.png&ehk=b1OayfBpqrXitOAbFNF7WdTPOlYXyvXPrAP9z2D%2bv%2bI%3d&risl=&pid=ImgRaw&r=0"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ayushkaushik-ism/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/thestonedphilosopherr/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/thestonedphilosopherr"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a>&nbsp;&nbsp;
 </p>
